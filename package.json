@@ -17,6 +17,6 @@
     "lodash": "^4.17.21",
     "axios": "^0.24.0",
     "express": "^4.17.1",
-    "Automated Database Backup": "1.0.0"
+    "automated-database-backup": "1.0.0"
   }
 }
