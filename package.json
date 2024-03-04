@@ -1,0 +1,22 @@
+{
+  "name": "digit-merge",
+  "version": "1.0.0",
+  "description": "Remade Introduction:\r Embark on a journey of numerical fusion with Digit Merge! This reinvention of the classic 2048 puzzle game challenges your strategic prowess and number skills. Navigate a grid filled with digits, and merge identical tiles by sliding them across the board. Aim for the elusive 2048 tile while mastering the art of tile manipulation. With each move, new tiles emerge, testing your ability to anticipate and plan ahead. Can you achieve numerical supremacy, or will the board reach its limit? Dive into Digit Merge for an addictive blend of strategy and number crunching!",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fgun8/Digit-Merge"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "Automated Database Backup": "1.0.0"
+  }
+}
